@@ -1,0 +1,52 @@
+.wrapper {
+  /* margin-top: 150px; */
+  /* padding: 250px 250px; */
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding-top: 150px;
+}
+#quote-box {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+  text-align: center;
+  height: auto;
+  width: auto;
+}
+
+#quote-mark {
+  font-size: 110px;
+}
+
+blockquote p {
+  font-size: 20px;
+  /* max-width: 35%; */
+  text-align: center;
+}
+
+#author {
+  margin-top: 20px;
+  font-size: large;
+  text-align: right;
+  padding-right: 10px;
+  font-weight: bold;
+}
+button {
+  height: 38px;
+  border: none;
+  border-radius: 3px;
+  color: #fff;
+  outline: none;
+  font-size: 0.85em;
+  /* position: relative; */
+  opacity: 1;
+  cursor: pointer;
+  width: 120px;
+  margin: auto;
+  /* display: block; */
+  float: right;
+}
+/* #new-quote {
+  float: right;
+} */
